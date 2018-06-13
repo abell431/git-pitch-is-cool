@@ -1,4 +1,6 @@
-theme : moo
+theme : moon
 layout : center-right
 transition : concave
+footnote : "© 2018 ANDREW BELL Inc."
+slide-number : true
 
