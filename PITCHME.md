@@ -5,9 +5,12 @@
 ### IS
 #HSLIDE
 # *COOL*
+---?color=#7429ee
 #HSLIDE
+---?color=329i2e
 # @fa[umbrella fa-5x]
 #HSLIDE
+---?color=#74992e
 ```
 package main
 
@@ -18,4 +21,6 @@ func main() {
 }
 
 ```
+@[1]
+@[3]
 @[5-7]
