@@ -1,1 +1,4 @@
-theme : moon
+theme : moo
+layout : center-right
+transition : concave
+
