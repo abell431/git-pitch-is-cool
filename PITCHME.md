@@ -1,8 +1,8 @@
-###Git
+### Git
 #HSLIDE
-##_PITCH_
+## _PITCH_
 #HSLIDE
-###IS
+### IS
 #HSLIDE
-#*COOL*
+# *COOL*
 
